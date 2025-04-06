@@ -35,6 +35,3 @@ print(Fore.YELLOW + f"Conta de {conta_do_jairo.titular}" + Style.RESET_ALL)
 conta_do_jairo.exibir_saldo()
 conta_do_jairo.sacar(667)
 conta_do_jairo.exibir_saldo()
-
-
-
